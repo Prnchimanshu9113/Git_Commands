@@ -1,1 +1,3 @@
 This is cool feature3
+
+This changes was done  in wrong way
