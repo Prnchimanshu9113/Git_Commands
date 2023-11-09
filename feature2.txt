@@ -1,3 +1,5 @@
 This is feature2
 
 Bit more changes
+
+Bit more changes in feature2
